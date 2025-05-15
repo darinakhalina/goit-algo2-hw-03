@@ -87,4 +87,5 @@
 ![Task2](./img/task_2.png)
 
 Total range_query time for OOBTree: 0.00048766600230010226 seconds
+
 Total range_query time for Dict: 1.0826914159988519 seconds
